@@ -1,5 +1,5 @@
 @echo off
-title Demophon-DoS - By vaxeron#0615
+title Demophon-DoS - By vaxeron#3748
 color a
 echo ________                                   ______                         ________        ________
 echo ___  __ \_____ _______ ___ ______ ________ ___  /_ ______ _______         ___  __ \______ __  ___/
